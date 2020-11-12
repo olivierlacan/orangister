@@ -16,3 +16,7 @@ Parser available for these odd txt voter files from https://github.com/pablobarb
 
 - OpenData portal for Census: https://api.census.gov/data.html
 - Census Quickfacts: https://www.census.gov/quickfacts/fact/table/orangecountyflorida,FL/PST045219
+
+### Tools
+
+- May help extract Census data without having to learn the entire API schema and how to query it: https://github.com/jtleider/censusdata
