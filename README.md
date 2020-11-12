@@ -19,4 +19,7 @@ Parser available for these odd txt voter files from https://github.com/pablobarb
 
 ### Tools
 
-- May help extract Census data without having to learn the entire API schema and how to query it: https://github.com/jtleider/censusdata
+| Name | URL | Description |
+| --- | --- | --- |
+| Census Data | https://github.com/jtleider/censusdata | Help extract census data | 
+| Census Reporter | https://censusreporter.org/profiles/05000US12095-orange-county-fl/ | Directly query & visualize census data | 
