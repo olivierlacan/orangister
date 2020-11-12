@@ -14,4 +14,5 @@ Parser available for these odd txt voter files from https://github.com/pablobarb
 
 ## 🇺🇸 Census Data
 
-https://api.census.gov/data.html
+- OpenData portal for Census: https://api.census.gov/data.html
+- Census Quickfacts: https://www.census.gov/quickfacts/fact/table/orangecountyflorida,FL/PST045219
