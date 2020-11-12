@@ -11,3 +11,7 @@ Archived on http://flvoters.com/:
 - http://69.64.83.144/~fl/download/
 
 Parser available for these odd txt voter files from https://github.com/pablobarbera/voter-files/blob/master/florida/parse.py 
+
+## 🇺🇸 Census Data
+
+https://api.census.gov/data.html
